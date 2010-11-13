@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat, dolor at vehicula tempor, nunc tellus convallis eros, et semper eros ante eget leo. Maecenas lacus. Vivamus et risus. Sed at lectus at ante elementum bibendum. Sed sit amet lacus vel mi dignissim pretium. Mauris eu elit eu lacus suscipit imperdiet. Morbi mauris purus, luctus in, viverra quis, semper quis, quam. Aliquam erat volutpat. Fusce posuere aliquet diam.</string>
+	<key>name</key>
+	<string>Lipsum -&gt; Plain text</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>lipsum</string>
+	<key>uuid</key>
+	<string>CA22DFEE-ABE0-411E-B0A2-B714AA0D2270</string>
+</dict>
+</plist>

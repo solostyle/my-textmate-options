@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;ul&gt;
+	&lt;li class="selected"&gt;&lt;a class="selected" href="${1:#}"&gt;${2:Home}&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="${3:#}"&gt;${4:Products}&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="${5:#}"&gt;${6:Services}&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="${7:#}"&gt;${8:About}&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="${9:#}"&gt;${10:Contact}&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</string>
+	<key>name</key>
+	<string>Lipsum -&gt; Menu list</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>lipsum</string>
+	<key>uuid</key>
+	<string>EC7B43E7-CE31-4CA6-BCBB-D243A37AC9ED</string>
+</dict>
+</plist>
